@@ -50,13 +50,15 @@
 
             />
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:text="Creat Account"
             android:textAllCaps="false"
             android:onClick="createAccount"
             android:layout_gravity="center"
-            android:layout_marginTop="20dp"/>
+            android:layout_marginTop="20dp"
+            android:textColor="#fff"
+            android:background="@drawable/loginpage_btn"/>
     </LinearLayout>
 
 
